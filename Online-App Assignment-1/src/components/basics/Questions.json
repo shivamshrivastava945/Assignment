@@ -1,0 +1,174 @@
+[
+  {
+    "QuestionId": 1,
+    "QuestionDescription": "Which of the following is the correct name of React.js?",
+    "option": [
+      { "ischecked" : false , "value": "React" },
+      { "ischecked" : false , "value": "React.js" },
+      { "ischecked" : false , "value": "ReactJS" },
+      { "ischecked" : false , "value": "All of the above" }
+    ],
+    "Level": 1
+  },
+  {
+    "QuestionId": 2,
+    "QuestionDescription": "Which of the following are the advantages of React.js?",
+    "option": [
+      {
+        "ischecked" : false , "value": "React.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library."
+      },
+      { "ischecked" : false , "value": "React.js can render both on client and server side" },
+      {
+        "ischecked" : false , "value": "React.js can increase the application's performance with Virtual DOM."
+      },
+      { "ischecked" : false , "value": "All of the above" }
+    ],
+    "Level": 1
+  },
+  {
+    "QuestionId": 3,
+    "QuestionDescription": "Which of the following is not a disadvantage of React.js?",
+    "option": [
+      {
+        "ischecked" : false , "value": "React.js has only a view layer. We have put your code for Ajax requests, events and so on"
+      },
+      { "ischecked" : false , "value": "The library of React.js is pretty large." },
+      { "ischecked" : false , "value": "The JSX in React.js makes code easy to read and write." },
+      { "ischecked" : false , "value": "The learning curve can be steep in React.js." }
+    ],
+    "Level": 1
+  },
+  {
+    "QuestionId": 4,
+    "QuestionDescription": "Which of the following command is used to install create-react-app?",
+    "option": [
+      { "ischecked" : false , "value": "npm install -g create-react-app" },
+      { "ischecked" : false , "value": "npm install create-react-app" },
+      { "ischecked" : false , "value": "npm install -f create-react-app" },
+      { "ischecked" : false , "value": "install -g create-react-app" }
+    ],
+    "Level": 1
+  },
+  {
+    "QuestionId": 5,
+    "QuestionDescription": "What of the following is used in React.js to increase performance?",
+    "option": [
+      { "ischecked" : false , "value": "Original DOM" },
+      { "ischecked" : false , "value": "Virtual DOM" },
+      { "ischecked" : false , "value": "Both A and B." },
+      { "ischecked" : false , "value": "None of the above." }
+    ],
+    "Level": 1
+  },
+  {
+    "QuestionId": 1,
+    "QuestionDescription": "What is the default port where webpack-server runs?",
+    "option": [
+      { "ischecked" : false , "value": "3000" },
+      { "ischecked" : false , "value": "8080" },
+      { "ischecked" : false , "value": "3030" },
+      { "ischecked" : false , "value": "6060" }
+    ],
+    "Level": 2
+  },
+
+  {
+    "QuestionId": 2,
+    "QuestionDescription": "How many numbers of elements a valid react component can return?",
+    "option": [
+      { "ischecked" : false , "value": "1" },
+      { "ischecked" : false , "value": "2" },
+      { "ischecked" : false , "value": "4" },
+      { "ischecked" : false , "value": "5" }
+    ],
+    "Level": 2
+  },
+  {
+    "QuestionId": 3,
+    "QuestionDescription": "What are the two ways to handle data in React?",
+    "option": [
+      { "ischecked" : false , "value": "State & Props" },
+      { "ischecked" : false , "value": "Services & Components" },
+      { "ischecked" : false , "value": "State & Services" },
+      { "ischecked" : false , "value": "State & Component" }
+    ],
+    "Level": 2
+  },
+  {
+    "QuestionId": 4,
+    "QuestionDescription": "What is a state in React?",
+    "option": [
+      { "ischecked" : false , "value": "A permanent storage." },
+      { "ischecked" : false , "value": "Internal storage of the component." },
+      { "ischecked" : false , "value": "External storage of the component." },
+      { "ischecked" : false , "value": "None of the above." }
+    ],
+    "Level": 2
+  },
+  {
+    "QuestionId": 5,
+    "QuestionDescription": "Which of the following is the correct name of React.js?",
+    "option": [
+      { "ischecked" : false , "value": "Inside the js/components/" },
+      { "ischecked" : false , "value": "Inside the vendor/components/" },
+      { "ischecked" : false , "value": "Inside the external/components/" },
+      { "ischecked" : false , "value": "Inside the vendor/" }
+    ],
+    "Level": 2
+  },
+  {
+    "QuestionId": 1,
+    "QuestionDescription": "What is the use of the create-react-app command in the React.js application?",
+    "option": [
+      { "ischecked" : false , "value": "It is used to update a React app." },
+      { "ischecked" : false , "value": "It is used to create a new React app." },
+      { "ischecked" : false , "value": "It is used to install dependencies." },
+      { "ischecked" : false , "value": "None of the above." }
+    ],
+    "Level": 3
+  },
+  {
+    "QuestionId": 2,
+    "QuestionDescription": "In which of the following condition, the React.js Lifecycle method static getDerivedSateFromProps(props, state) is called?",
+    "option": [
+      { "ischecked" : false , "value": "The component is created for the first time." },
+      { "ischecked" : false , "value": "The state of the component is updated." },
+      { "ischecked" : false , "value": "Both of the above." },
+      { "ischecked" : false , "value": "None of the above." }
+    ],
+    "Level": 3
+  },
+  {
+    "QuestionId": 3,
+    "QuestionDescription": "Which of the following command is used to install create-react-app?",
+    "option": [
+      { "ischecked" : false , "value": "npm install -g create-react-app" },
+      { "ischecked" : false , "value": "npm install create-react-app" },
+      { "ischecked" : false , "value": "npm install -f create-react-app" },
+      { "ischecked" : false , "value": "install -g create-react-app" }
+    ],
+    "Level": 3
+  },
+  {
+    "QuestionId": 4,
+    "QuestionDescription": "What of the following is used in React.js to increase performance?",
+    "option": [
+      { "ischecked" : false , "value": "Original DOM" },
+      { "ischecked" : false , "value": "Virtual DOM" },
+      { "ischecked" : false , "value": "Both A and B." },
+      { "ischecked" : false , "value": "None of the above." }
+    ],
+    "Level": 3
+  },
+  {
+    "QuestionId": 5,
+    "QuestionDescription": "What of the following is used in React.js to decrease performance?",
+    "option": [
+      { "ischecked" : false , "value": "Original DOM" },
+      { "ischecked" : false , "value": "Virtual DOM" },
+      { "ischecked" : false , "value": "Both A and B." },
+      { "ischecked" : false , "value": "None of the above." }
+    ],
+    "Level": 3
+  }
+]

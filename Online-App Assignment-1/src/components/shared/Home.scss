@@ -1,0 +1,21 @@
+.landingPage {
+    padding-top: 90px;
+    min-height: 100vh;
+    background: rgb(207, 220, 238);
+    background: linear-gradient(90deg, rgba(207, 220, 238, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    overflow: hidden;
+    p {
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        margin-top: 30px;
+        padding: 10px;
+        color: #033a70;
+    }
+    .logo {
+        img {
+            max-width: 170px;
+            height: auto;
+        }
+    }
+}

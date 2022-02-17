@@ -1,0 +1,49 @@
+
+
+.successPage {
+  text-align: center;
+  min-height: 100vh;
+  padding-top: 30px;
+
+  img {
+    max-width: 150px;
+  }
+
+  img.SucessImage {
+    max-width: 350px;
+  }
+
+  h2 {
+    font-size: 60px;
+    color: #005e11;
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-top: 20px;
+  }
+
+  h3 {
+    font-size: 54px;
+    font-weight: 300;
+    color: blue;
+  }
+  h4 {
+    font-size: 30px;
+    font-weight: 200;
+    color: blue;
+  }
+  table, td, th {  
+    border: 1px solid #ddd;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+    color: green;
+  }
+}

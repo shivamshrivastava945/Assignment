@@ -1,0 +1,10 @@
+.instructionPage {
+    padding-top: 90px;
+    min-height: 100vh;
+    background: rgb(207, 220, 238);
+    background: linear-gradient(90deg, rgba(207, 220, 238, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    overflow: hidden;
+    .width{
+        width: 300px
+    }
+}
