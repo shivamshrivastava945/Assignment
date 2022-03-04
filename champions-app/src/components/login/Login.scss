@@ -1,0 +1,24 @@
+
+.bg1 {
+  
+  .loginImages {
+    text-align: center;
+  
+    img {
+      max-width: 500px;
+    }
+  }
+  background: rgb(207, 220, 238);
+  background: linear-gradient(
+    90deg,
+    rgba(207, 220, 238, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  min-height: 100vh;
+
+  padding-top: 100px;
+ 
+}
+.Width {
+  width: 300px;
+}
